@@ -1,0 +1,752 @@
+*{
+    height: 900px;
+}
+div{
+    height: 900px;
+}
+.fondoColor{
+    background-color:whitesmoke;
+}
+
+.fondoImagen{
+    background-image:url("./1.png");
+}
+.imagen1{
+    height: 1149px;
+    position: relative;
+    left: 50%;
+    top:10%;
+}
+.izquierda{
+    color:rgba(30, 30, 190, 0.938);
+    font-size: 50px;
+    font-weight: 700;
+    position: absolute;
+}
+.derechaD{
+    color:rgb(100, 98, 98) ;
+    font-size: 38px;
+    font-weight: 700;
+    position: absolute;
+}
+.derechaE{
+    color:rgb(100, 98, 98) ;
+    font-size: 38px;
+    font-weight: 700;
+    position: absolute;
+}
+.derechaN{
+    color:rgb(100, 98, 98) ;
+    font-size: 38px;
+    font-weight: 700;
+    position: absolute;
+}
+.derechaR{
+    color:rgb(100, 98, 98) ;
+    font-size: 38px;
+    font-weight: 700;
+    position: absolute;
+}
+.centradoF{
+
+    color:rgb(17, 52, 129) ;
+    font-size: 100px;
+    font-weight: 2600;
+    position: absolute;
+}
+.centradoW{
+    color:rgb(17, 52, 129) ;
+    font-size: 100px;
+    font-weight: 2600;
+    position: absolute;
+}
+.centradoT{
+    color:rgb(108, 108, 110) ;
+    font-size: 38px;
+    font-weight: 35;
+    position: absolute;
+}
+.centradoV{
+    color:rgb(101, 101, 102) ;
+    font-size: 38px;
+    font-weight: 35;
+    position: absolute;
+}
+.centradoG{
+    
+    color:rgb(101, 101, 102) ;
+    font-size: 38px;
+    font-weight: 35;
+    position: absolute;
+}
+
+.centradoB{
+    color:rgb(37, 37, 122) ;
+    font-size: 38px;
+    font-weight: 200;
+    position: absolute;
+
+
+}
+.centradoS{
+    color:rgb(37, 37, 122) ;
+    font-size: 38px;
+    font-weight: 200;
+    position: absolute;
+}
+.centradoI{
+    color:rgb(37, 37, 122) ;
+    font-size: 45px;
+    font-weight: 60;
+    position: absolute;
+}
+.izquierda2{
+    color:rgb(37, 37, 122) ;
+    font-size: 80px;
+    font-weight: 1000;
+    position: absolute;
+}
+.izquierda3{
+    color:rgb(102, 99, 99) ;
+    font-size: 38px;
+    font-weight: 35;
+    position: absolute;
+}
+.izquierda4{
+    color:rgb(102, 99, 99) ;
+    font-size: 38px;
+    font-weight: 35;
+    position: absolute;
+}
+.izquierda5{
+    color:rgb(102, 99, 99) ;
+    font-size: 38px;
+    font-weight: 35;
+    position: absolute;
+}
+.escudos{
+    border-radius: 4px;
+    height: 50px;
+    position:absolute;
+    top:745px;
+}
+.cuadro{
+    width: 1750px;
+    height: 235px;
+    border:1px solid rgb(223, 221, 221);
+    border-radius:15px;
+    position:absolute;
+    background-color:white;
+    
+    
+}
+.location{
+    color:rgb(101, 101, 102);
+    font-size: 38px;
+    font-weight: 200;
+    position: absolute;
+   
+}
+.locat{
+    color:rgb(101, 101, 102);
+    font-size: 38px;
+    font-weight: 200;
+    position: absolute;
+   
+}
+.Date{
+    color:rgb(101, 101, 102);
+    font-size: 38px;
+    font-weight: 200;
+    position: absolute;
+}
+.VT{
+    color:rgb(101, 101, 102);
+    font-size: 38px;
+    font-weight: 200;
+    position: absolute;
+}
+.locat{
+    border-radius: 4px;
+    height: 50px;
+    position:absolute;
+    top:1180px;
+}
+.Dat{
+    border-radius: 4px;
+    height: 50px;
+    position:absolute;
+    top:1180px;
+}
+.JU{
+    
+    color:rgb(23, 23, 129);
+    font-size: 38px;
+    font-weight: 200;
+    position: absolute;
+}
+.JULY{
+    color:rgb(23, 23, 129);
+    font-size: 38px;
+    font-weight: 200;
+    position: absolute;
+}
+.MOD{
+    color:rgb(23, 23, 129);
+    font-size: 38px;
+    font-weight: 200;
+    position: absolute;
+}
+.cuadro2{
+    width: 490px;
+    height: 500px;
+    border:1px solid rgb(255, 255, 255);
+    border-radius:15px;
+    position:absolute;
+    background-color:rgb(248, 250, 250);
+    
+}
+.cuadro3{
+    width: 490px;
+    height: 500px;
+    border:1px solid rgb(255, 255, 255);
+    border-radius:15px;
+    position:absolute;
+    background-color:rgb(248, 250, 250);
+    
+    }
+    .cuadro4{
+        width: 490px;
+        height: 500px;
+        border:1px solid rgb(255, 255, 255);
+        border-radius:15px;
+        position:absolute;
+        background-color:rgb(248, 250, 250);
+        }
+        .cuadro5{
+            width: 490px;
+            height: 500px;
+            border:1px solid rgb(255, 255, 255);
+            border-radius:15px;
+            position:absolute;
+            background-color:rgb(248, 250, 250);
+            }
+.mini{
+    border-radius: 9px;
+    height: 80px;
+    position:absolute;
+    top:2500px;
+}
+.minimize{
+    color:rgb(17, 3, 139) ;
+    font-size: 36px;
+    font-weight: 420;
+    position: absolute;
+}
+.spread{
+    color:rgb(17, 3, 139) ;
+    font-size: 36px;
+    font-weight: 420;
+    position: absolute;
+}
+.co{
+    color:rgb(17, 3, 139) ;
+    font-size: 36px;
+    font-weight: 420;
+    position: absolute;
+}
+.ro{
+    color:rgb(93, 86, 97) ;
+    font-size: 30px;
+    font-weight: 420;
+    position: absolute;
+}
+.na{
+    color:rgb(97, 95, 102) ;
+    font-size: 30px;
+    font-weight: 420;
+    position: absolute;
+}
+.pe{
+    color:rgb(40, 6, 124) ;
+    font-size: 36px;
+    font-weight: 420;
+    position: absolute;
+}
+.rus{
+    
+    color:rgb(17, 3, 139) ;
+    font-size: 30px;
+    font-weight: 420;
+    position: absolute;
+}
+.arou{
+    color:rgb(97, 95, 102) ;
+    font-size: 30px;
+    font-weight: 420;
+    position: absolute;
+}
+.sti{
+    color:rgb(97, 95, 102) ;
+    font-size: 30px;
+    font-weight: 420;
+    position: absolute;
+}
+
+*{
+    height: 2500px;
+}
+div{
+    height: 2500px;
+}
+
+.Img2{
+    background-image:url("./11.jpg");
+}
+.fimagen2{
+
+    height: 1649px;
+    position: relative;
+    left: 3%;
+    top:23%;
+}
+.derecha1{
+    color:rgb(8, 17, 146) ;
+    font-size: 58px;
+    font-weight: 900;
+    position: absolute;
+}
+.derecha2{ 
+
+    color:rgb(101, 101, 102) ;
+    font-size: 38px;
+    font-weight: 35;
+    position: absolute;
+
+}
+.cuadro7{
+    width: 700px;
+    height: 80px;
+    border:1px solid rgb(255, 255, 255);
+    border-radius:15px;
+    position:absolute;
+    background-color:rgb(248, 250, 250);
+    }
+    .im12{
+    
+            border-radius: 4px;
+            height: 50px;
+            position:absolute;
+            top:3768px;
+        
+    }
+    .derecha3{ 
+
+        color:rgb(101, 101, 102) ;
+        font-size: 30px;
+        font-weight: 35;
+        position: absolute;
+    
+    }
+    .im16{
+    
+        border-radius: 4px;
+        height: 50px;
+        position:absolute;
+        top:3768px;
+    
+}
+.cuadro8{
+    width: 700px;
+    height: 250px;
+    border:1px solid rgb(255, 255, 255);
+    border-radius:15px;
+    position:absolute;
+    background-color:rgb(248, 250, 250);
+    }
+    .im13{
+    
+        border-radius: 4px;
+        height: 50px;
+        position:absolute;
+        top:3928px;
+    
+}
+.derecha4{ 
+
+    color:rgb(101, 101, 102) ;
+    font-size: 30px;
+    font-weight: 35;
+    position: absolute;
+
+}
+.im17{
+    
+    border-radius: 4px;
+    height: 50px;
+    position:absolute;
+    top:3928px;
+
+}
+.derecha5{ 
+
+    color:rgb(101, 101, 102) ;
+    font-size: 26px;
+    font-weight: 35;
+    position: absolute;
+
+}
+.cuadro10{
+    width: 700px;
+    height: 80px;
+    border:1px solid rgb(255, 255, 255);
+    border-radius:15px;
+    position:absolute;
+    background-color:rgb(248, 250, 250);
+    }
+    .im14{
+    
+        border-radius: 4px;
+        height: 50px;
+        position:absolute;
+        top:4219px;
+    
+}
+.derecha6{ 
+
+    color:rgb(101, 101, 102) ;
+    font-size: 26px;
+    font-weight: 35;
+    position: absolute;
+
+}
+.im18{
+    
+    border-radius: 4px;
+    height: 50px;
+    position:absolute;
+    top:4215px;
+
+}
+.cuadro11{
+    width: 700px;
+    height: 80px;
+    border:1px solid rgb(255, 255, 255);
+    border-radius:15px;
+    position:absolute;
+    background-color:rgb(248, 250, 250);
+    }
+    .im15{
+    
+        border-radius: 4px;
+        height: 50px;
+        position:absolute;
+        top:4350px;
+    
+}
+.derecha7{ 
+
+    color:rgb(101, 101, 102) ;
+    font-size: 26px;
+    font-weight: 35;
+    position: absolute;
+
+}
+.im19{
+    
+    border-radius: 4px;
+    height: 50px;
+    position:absolute;
+    top:4340px;
+}
+.cuadro12{
+    width: 700px;
+    height: 80px;
+    border:1px solid rgb(255, 255, 255);
+    border-radius:15px;
+    position:absolute;
+    background-color:rgb(248, 250, 250);
+    }
+    .im21{
+    
+        border-radius: 4px;
+        height: 50px;
+        position:absolute;
+        top:4350px;
+    
+}
+.im15{
+    
+    border-radius: 4px;
+    height: 50px;
+    position:absolute;
+    top:4480px;
+
+}
+.derecha8{ 
+
+    color:rgb(101, 101, 102) ;
+    font-size: 26px;
+    font-weight: 35;
+    position: absolute;
+
+}
+.im20{
+    
+    border-radius: 4px;
+    height: 60px;
+    position:absolute;
+    top:4480px;
+}
+
+
+*{
+    height: 2500px;
+}
+div{
+    height: 2500px;
+}
+
+.Img3{
+    background-image:url("./22.jpg");
+}
+.fimagen23{
+
+    height: 1149px;
+    position: relative;
+    left: 60%;
+    top:10%;
+}
+.izq1{
+    color:rgb(17, 52, 129) ;
+    font-size: 100px;
+    font-weight: 2600;
+    position: absolute;
+}
+
+.izq2{
+    color:rgb(97, 95, 102) ;
+    font-size: 38px;
+    font-weight: 420;
+    position: absolute;
+}
+.cuadro20{
+    width: 400px;
+    height: 300px;
+    border:1px solid rgb(255, 255, 255);
+    border-radius:15px;
+    position:absolute;
+    background-color:rgb(248, 250, 250);
+    }
+    .im23{
+    
+        border-radius: 4px;
+        height: 95px;
+        position:absolute;
+        top:5830px;
+    }
+
+    .izq3{
+        color:rgb(82, 22, 236) ;
+        font-size: 38px;
+        font-weight: 420;
+        position: absolute;
+    }
+    .izq4{
+        color:rgb(162, 161, 165) ;
+        font-size: 26px;
+        font-weight: 420;
+        position: absolute;
+    }
+    .im24{
+    
+        border-radius: 4px;
+        height: 95px;
+        position:absolute;
+        top:5990px;
+    }
+    .cuadro21{
+        width: 400px;
+        height: 300px;
+        border:1px solid rgb(255, 255, 255);
+        border-radius:15px;
+        position:absolute;
+        background-color:rgb(248, 250, 250);
+        }
+        .im25{
+    
+            border-radius: 4px;
+            height: 95px;
+            position:absolute;
+            top:5830px;
+        }
+        .izq5{
+            color:rgb(82, 22, 236) ;
+            font-size: 38px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq6{
+            color:rgb(162, 161, 165) ;
+            font-size: 26px;
+            font-weight: 420;
+            position: absolute;
+        }
+        
+        
+        .im26{
+    
+            border-radius: 4px;
+            height: 95px;
+            position:absolute;
+            top:5985px;
+        }
+        .cuadro22{
+            width: 400px;
+            height: 300px;
+            border:1px solid rgb(255, 255, 255);
+            border-radius:15px;
+            position:absolute;
+            background-color:rgb(248, 250, 250);
+        }
+        .im27{
+    
+            border-radius: 4px;
+            height: 95px;
+            position:absolute;
+            top:6210px;
+        }
+        .izq7{
+            color:rgb(82, 22, 236) ;
+            font-size: 38px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq8{
+            color:rgb(162, 161, 165) ;
+            font-size: 26px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .im28{
+    
+            border-radius: 4px;
+            height: 95px;
+            position:absolute;
+            top:6360px;
+        }
+        .cuadro23{
+            width: 400px;
+            height: 300px;
+            border:1px solid rgb(255, 255, 255);
+            border-radius:15px;
+            position:absolute;
+            background-color:rgb(248, 250, 250);
+        }
+        .im29{
+    
+            border-radius: 4px;
+            height: 95px;
+            position:absolute;
+            top:6210px;
+        }
+        .izq9{
+            color:rgb(82, 22, 236) ;
+            font-size: 38px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq10{
+            color:rgb(162, 161, 165) ;
+            font-size: 26px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .im30{
+    
+            border-radius: 4px;
+            height: 95px;
+            position:absolute;
+            top:6360px;
+        }
+        .cuadro24{
+            width: 3000px;
+            height: 1300px;
+            border:1px solid rgb(228, 250, 250);
+            border-radius:15px;
+            position:absolute;
+            background-color:rgb(220, 223, 255);
+        }
+        .izq10{
+            color:rgb(162, 161, 165) ;
+            font-size: 26px;
+            font-weight: 620;
+            position: absolute;
+        }
+        .izq11{
+            color:rgb(82, 22, 236) ;
+            font-size: 58px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq12{
+            color:rgb(142, 142, 143) ;
+            font-size: 39px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq13{
+            color:rgb(82, 22, 236) ;
+            font-size: 58px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq14{
+            color:rgb(142, 142, 143) ;
+            font-size: 39px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq15{
+            color:rgb(82, 22, 236) ;
+            font-size: 58px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq16{
+            color:rgb(142, 142, 143) ;
+            font-size: 39px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq17{
+            color:rgb(82, 22, 236) ;
+            font-size: 58px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq18{
+            color:rgb(142, 142, 143) ;
+            font-size: 39px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq19{
+            color:rgb(142, 142, 143) ;
+            font-size: 39px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .izq20{
+            color:rgb(142, 142, 143) ;
+            font-size: 39px;
+            font-weight: 420;
+            position: absolute;
+        }
+        .im30{
+    
+            border-radius: 4px;
+            height: 95px;
+            position:absolute;
+            top:7998px;
+        }
